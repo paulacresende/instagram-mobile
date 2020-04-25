@@ -51,6 +51,7 @@ a {
 .bar .container {
   display: flex;
   justify-content: space-between;
+  padding: 0 15px;
 }
 
 .bar__icon {
