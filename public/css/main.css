@@ -190,6 +190,7 @@ button {
   align-items: center;
   padding: 8px;
   background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 0 0 10px 10px;
 }
 
 .card__likes .card__user__photo {
