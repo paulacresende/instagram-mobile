@@ -179,7 +179,10 @@ button {
   color: rgb(237, 73, 86);
 }
 
-.fa-comment:hover,
+.fa-comment:hover {
+  color: rgb(73, 204, 182);
+}
+
 .fa-bookmark:hover {
   color: rgb(73, 212, 237);
 }
